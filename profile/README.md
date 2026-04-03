@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[SEU_LINK_DA_IMAGEM](https://rip-bf.com/wp-content/uploads/2025/11/rip2.png)" alt="RIP Platform Services" width="260">
+  <img src="https://rip-bf.com/wp-content/uploads/2025/11/rip2.png" alt="RIP Platform Services" width="260">
 </p>
 
 # RIP Platform Services
