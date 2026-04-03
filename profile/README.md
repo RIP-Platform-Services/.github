@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://rip-bf.com/wp-content/uploads/2025/11/rip2.png" alt="RIP Platform Services Banner" width="100%">
+</p>
+
 # RIP Platform Services
 
 Welcome to the official GitHub organization for **RIP Platform Services**.
